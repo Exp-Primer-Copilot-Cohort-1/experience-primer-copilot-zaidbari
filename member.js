@@ -6,4 +6,5 @@ function skillsMember() {
         },
         templateUrl: 'views/member.html'
     };
+    
 }
